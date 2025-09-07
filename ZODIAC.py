@@ -70,4 +70,5 @@ elif memori == 'tidak':
 elif memori !='ya' or memori != 'tidak':
         print('Zodiac macam apa ini!!??')
 
+print('Hello kak Evi')
 
